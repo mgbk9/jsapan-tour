@@ -1,1 +1,1 @@
-# jsapan-tour
+# japan-tour
